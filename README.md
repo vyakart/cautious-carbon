@@ -256,8 +256,4 @@ For production use, we recommend:
 
 ## License
 
-MIT License - Free to use and modify.
-
-## Contact
-
-For questions or contributions, contact Medius Earth.
+GNU GPL v3 - Free to use and modify.
