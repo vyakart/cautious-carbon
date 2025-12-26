@@ -75,8 +75,4 @@ This app is configured for Netlify deployment:
 
 ## License
 
-MIT License
-
-## Author
-
-Medius Earth
+GPL-3.0 License

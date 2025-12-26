@@ -210,7 +210,7 @@ export default function App() {
             <h1 className="text-2xl font-bold flex items-center gap-2">
               🌳 Carbon Stock Model
             </h1>
-            <p className="text-green-200 text-sm">Medius Earth | AGB + BGB Projections</p>
+            <p className="text-green-200 text-sm">AGB + BGB Projections</p>
           </div>
           <div className="text-right text-sm">
             <div className="text-green-200">Based on T-model & P-hydro</div>
@@ -540,8 +540,8 @@ export default function App() {
       {/* Footer */}
       <footer className="bg-green-800 text-green-200 py-4 px-6 mt-8">
         <div className="max-w-6xl mx-auto text-center text-sm">
-          <p>Carbon Stock Assessment Model v1.0 | Medius Earth</p>
-          <p className="text-green-400 text-xs mt-1">Open source under MIT License</p>
+          <p>Carbon Stock Assessment Model v1.0</p>
+          <p className="text-green-400 text-xs mt-1">Open source under GPLv3 License</p>
         </div>
       </footer>
     </div>
